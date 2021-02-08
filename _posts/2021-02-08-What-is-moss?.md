@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: Moss: an introduction
 ---
 
 This post will centre in on the key facts about moss (known under the taxonomic division Bryophyta), and introduce why it should be of major interest to us all. We will explore the taxinomy, the anatomy and common types you will find in a British garden and further into the countryside. Some reference and source links are provided if you want further reading.
