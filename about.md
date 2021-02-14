@@ -8,7 +8,7 @@ I am a third-year PhD student who likes moss and looking at things under a micro
 
 ### More Information
 
-This blog will contain such images.
+This blog will contain such images. Posts to come: History, cool gardens and regular image/species posts.
 
 ### Contact me
 
